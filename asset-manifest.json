@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Todo-App-using-Redux-Toolkit/static/css/main.49e4cf24.css",
+    "main.js": "/Todo-App-using-Redux-Toolkit/static/js/main.84caf88a.js",
+    "static/js/156.4d2345bf.chunk.js": "/Todo-App-using-Redux-Toolkit/static/js/156.4d2345bf.chunk.js",
+    "index.html": "/Todo-App-using-Redux-Toolkit/index.html",
+    "main.49e4cf24.css.map": "/Todo-App-using-Redux-Toolkit/static/css/main.49e4cf24.css.map",
+    "main.84caf88a.js.map": "/Todo-App-using-Redux-Toolkit/static/js/main.84caf88a.js.map",
+    "156.4d2345bf.chunk.js.map": "/Todo-App-using-Redux-Toolkit/static/js/156.4d2345bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49e4cf24.css",
+    "static/js/main.84caf88a.js"
+  ]
+}
